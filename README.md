@@ -1,5 +1,5 @@
 <h1>Building Intuition for DNS</h1>
-Welcome back! In this tutorial, we will build a solid fundamental understanding of DNS. <br />
+In this tutorial, we will build a solid fundamental understanding of DNS. <br />
 
 <h2>Environments and Technologies Used</h2>
 
